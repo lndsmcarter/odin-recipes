@@ -8,3 +8,7 @@ SKILLS:
     - Images 
     - Basic text manipulation
 
+2nd Phase
+
+SKILLS: 
+    - CSS 

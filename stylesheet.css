@@ -5,12 +5,14 @@ html {
 * {
     font-family: 'Courier New', Courier, monospace;
     color: white;
+    text-align: justify;
 }
 
 a {
     size: 15px;
     text-align: justify;
     color: aquamarine;
+    text-transform: lowercase;
 }
 
 .swerve {
@@ -28,4 +30,13 @@ a {
 .swerve,
 .megs {
     font-weight: bolder;
+}
+
+h1,
+h2 {
+    text-transform: uppercase;
+}
+
+.bot {
+    text-transform: lowercase;
 }

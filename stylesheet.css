@@ -11,7 +11,6 @@ html {
 a {
     size: 15px;
     text-align: justify;
-    color: aquamarine;
     text-transform: lowercase;
 }
 
@@ -37,6 +36,17 @@ h2 {
     text-transform: uppercase;
 }
 
+h2 {
+    font-size: 30px;
+}
+
 .bot {
     text-transform: lowercase;
+    font-size: 25px;
+}
+
+a, 
+h2, 
+h5 {
+    color: aquamarine;
 }
